@@ -2,7 +2,8 @@
 
 ### I am Krish Ranabhat 
 
-![giphy](https://github.com/user-attachments/assets/dba28a82-0b01-4e47-859a-87074b754b03)
+
+![k06u6pf72o171](https://github.com/user-attachments/assets/392b6458-be8b-46c5-b6b4-134f9597f483)
 
 
 
