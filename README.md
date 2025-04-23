@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-# I am Krish Ranabhat 
+### I am Krish Ranabhat 
 
-![9c4a28bd27feaac6343dcb42f7980496](https://github.com/user-attachments/assets/cde9a9df-b82d-40b9-875c-d600434dc53d)
+<h3> ![9c4a28bd27feaac6343dcb42f7980496](https://github.com/user-attachments/assets/cde9a9df-b82d-40b9-875c-d600434dc53d) </h3>
 
-# - A Student
-# - Trying to be Best at everything.
-# - No hobbys and aim
+### - A Student
+### - Trying to be Best at everything.
+### - No hobbys and aim
 
 
 
