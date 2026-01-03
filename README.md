@@ -1,6 +1,6 @@
 ## Hi there 👋
-### I am Krish Ranabhat. 
-## Welcome to my GitHub profile.
+## I am Krish Ranabhat. 
+### Welcome to my GitHub profile.
 <!--
 ![k06u6pf72o171](https://github.com/user-attachments/assets/392b6458-be8b-46c5-b6b4-134f9597f483)
 
